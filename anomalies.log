@@ -1,0 +1,6 @@
+AnomalyDetection - INFO - Detected SYN Flood anomalies:
+AnomalyDetection - INFO - 167.71.81.23
+AnomalyDetection - INFO - 165.22.32.146
+AnomalyDetection - INFO - Detected DoS Amplification anomalies:
+AnomalyDetection - INFO - Detected Malicious DNS Queries anomalies:
+AnomalyDetection - INFO - {'src_ip': '1.1.1.2', 'dst_ip': '1.1.1.1', 'src_port': 1042, 'dst_port': 53, 'flags': <Flag 2 (S)>, 'length': 62}

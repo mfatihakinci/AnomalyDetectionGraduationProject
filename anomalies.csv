@@ -1,0 +1,4 @@
+anomaly_type,details
+SYN Flood,167.71.81.23
+SYN Flood,165.22.32.146
+Malicious DNS Queries,"{'src_ip': '1.1.1.2', 'dst_ip': '1.1.1.1', 'src_port': 1042, 'dst_port': 53, 'flags': <Flag 2 (S)>, 'length': 62}"
